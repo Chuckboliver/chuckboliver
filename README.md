@@ -7,7 +7,7 @@
   <img  align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=chuckboliver&count_private=false&show_icons=true&theme=monokai" />
 </a>
 <a >
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=chuckboliver&hide=php&theme=monokai&layout=compact" />
+  <img align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=chuckboliver&hide=php&theme=monokai&layout=compact" />
 </a>
 </div>
 
