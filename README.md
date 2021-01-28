@@ -2,12 +2,13 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Chuckboliver)
 [![Github](https://img.shields.io/github/followers/Chuckboliver?label=Follow&style=social)](https://github.com/Chuckboliver)
 ## :trophy::
-<div>
+<div align="center">
     <a >
-      <p style="text-align:center;"><img  align="left"  src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Chuckboliver&count_private=true&show_icons=true&theme=blue-green" /></p>
+      <img  align="left"  src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Chuckboliver&count_private=true&show_icons=true&theme=blue-green" />
     </a>
+    </br>
     <a >
-      <p style="text-align:center;"><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuckboliver&layout=compact&theme=blue-green" /></p>
+      <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuckboliver&layout=compact&theme=blue-green" />
     </a>
 </div>
 
