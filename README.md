@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/Chuckboliver?label=Follow&style=social)](https://github.com/Chuckboliver)
 ## :trophy::
 <div align="center">
-  ![Chuckboliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuckboliver&count_private=true&show_icons=true)
+  [![Chuckboliver's github stats](https://github-readme-stats.vercel.app/api?username=chuckboliver&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
       
 </div>
 
