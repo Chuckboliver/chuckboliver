@@ -1,13 +1,16 @@
 ### Hi there 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=Chuckboliver)
-[![Github](https://img.shields.io/github/followers/Chuckboliver?label=Follow&style=social)](https://github.com/Chuckboliver)
+![](https://visitor-badge.laobi.icu/badge?page_id=chuckboliver)
+[![Github](https://img.shields.io/github/followers/chuckboliver?label=Follow&style=social)](https://github.com/chuckboliver)
 ## :trophy::
-<div align="center">
-<div >
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=chuckboliver&count_private=true&show_icons=true&theme=great-gatsby">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=chuckboliver&count_private=true&show_icons=true&theme=great-gatsby" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=chuckboliver&hide=php&theme=great-gatsby">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=chuckboliver&hide=php&theme=great-gatsby&layout=compact" />
+</a>
+</div>
 
- 
-</div>
-</div>
 
 
 
