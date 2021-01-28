@@ -4,10 +4,10 @@
 ## :trophy::
 <div>
 <a >
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Chuckboliver&count_private=true&show_icons=true&theme=blue-green" />
+  <img  align="left" class="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Chuckboliver&count_private=true&show_icons=true&theme=blue-green" />
 </a>
 <a >
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuckboliver&layout=compact&theme=blue-green" />
+  <img align="left" class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuckboliver&layout=compact&theme=blue-green" />
 </a>
 
 </div>
