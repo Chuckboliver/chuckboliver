@@ -3,13 +3,8 @@
 [![Github](https://img.shields.io/github/followers/Chuckboliver?label=Follow&style=social)](https://github.com/Chuckboliver)
 ## :trophy::
 <div align="center">
-    <a >
-      <img  align="left"  src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Chuckboliver&count_private=true&show_icons=true&theme=blue-green" />
-    </a>
-    </br>
-    <a >
-      <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuckboliver&layout=compact&theme=blue-green" />
-    </a>
+  ![Chuckboliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuckboliver&count_private=true&show_icons=true)
+      
 </div>
 
 
