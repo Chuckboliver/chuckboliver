@@ -4,14 +4,12 @@
 ## :trophy::
 <div>
 <a >
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Chuckboliver&count_private=true&show_icons=true&theme=great-gatsby" />
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Chuckboliver&count_private=true&show_icons=true&theme=merko" />
 </a>
 <a >
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuckboliver&layout=compact(https://github.com/chuckboliver/github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuckboliver&layout=compact&theme=merko(https://github.com/chuckboliver/github-readme-stats)" />
 </a>
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=chuckboliver&layout=compact(https://github.com/chuckboliver/github-readme-stats)">
-</a>
+
 </div>
 
 
