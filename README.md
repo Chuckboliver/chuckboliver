@@ -6,10 +6,15 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Chuckboliver&count_private=true&show_icons=true&theme=great-gatsby">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Chuckboliver&count_private=true&show_icons=true&theme=great-gatsby" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Chuckboliver&hide=php&theme=great-gatsby">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Chuckboliver&hide=php&theme=great-gatsby" />
+<a href="https://github.com/chuckboliver/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 </div>
+
+
+
+
+
 
 
 
