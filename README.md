@@ -3,11 +3,11 @@
 [![Github](https://img.shields.io/github/followers/chuckboliver?label=Follow&style=social)](https://github.com/chuckboliver)
 ## :trophy::
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=chuckboliver&count_private=true&show_icons=true&theme=great-gatsby">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=chuckboliver&count_private=true&show_icons=true&theme=great-gatsby" />
+<a >
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=chuckboliver&count_private=true&show_icons=true&theme=monokai" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=chuckboliver&hide=php&theme=great-gatsby">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=chuckboliver&hide=php&theme=great-gatsby&layout=compact" />
+<a >
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=chuckboliver&hide=php&theme=monokai&layout=compact" />
 </a>
 </div>
 
