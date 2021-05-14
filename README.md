@@ -11,6 +11,10 @@
 </a>
 </div>
 
+- 📫 How to reach me: patpumhak@gmail.com
+
+- ⚡ Fun fact: กระโดดเชือกเก่งมาก
+
 
 
 
