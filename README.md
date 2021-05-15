@@ -7,14 +7,13 @@
 
 - 📫 How to reach me **patpumhak@gmail.com**
 
-- ⚡ Fun fact **กระโดดเชือกเก่งมาก**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/15027829" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="15027829" height="30" width="40" /></a>
-<a href="https://instagram.com/patpatpumlnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="patpatpumlnw" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/patpumhak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="patpumhak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/patpumhak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="patpumhak" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15027829" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" alt="15027829" height="30" width="40" /></a>
+<a href="https://fb.com/pat.patpum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" alt="pat.patpum" height="30" width="40" /></a>
+<a href="https://instagram.com/patpatpumlnw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="patpatpumlnw" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/patpumhak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg" alt="patpumhak" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/patpumhak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/leetcode.svg" alt="patpumhak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chuckboliver&show_icons=true&locale=en" alt="chuckboliver" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chuckboliver&" alt="chuckboliver" /></p>
+
+
+
 
