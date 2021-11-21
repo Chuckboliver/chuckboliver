@@ -19,6 +19,6 @@
 
 <p>&nbsp<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chuckboliver&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="chuckboliver" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chuckboliver&theme=vision-friendly-dark" alt="chuckboliver" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chuckboliver&show_icons=true&locale=en&theme=vision-friendly-dark" alt="chuckboliver" /></p>
 
-[![Patpum's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chuckboliver&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Patpum's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chuckboliver&v=2&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
