@@ -3,7 +3,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chuckboliver&show_icons=true&locale=en&count_private=true&theme=vision-friendly-dark" alt="chuckboliver" /></p>
 
-[![Patpum's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chuckboliver&range=last_7_days&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Patpum's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chuckboliver&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chuckboliver&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="chuckboliver" /></p>
