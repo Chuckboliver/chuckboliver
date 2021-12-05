@@ -1,4 +1,4 @@
-<!--- Header :D:P --->
+<!--- Header :D --->
 <h1 align="center">Hi 👋, I'm Patpum Hakaew</h1>
 <!--- Body --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chuckboliver&label=Profile%20views&color=0e75b6&style=flat" alt="chuckboliver" /> </p>
