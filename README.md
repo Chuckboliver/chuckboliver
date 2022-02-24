@@ -1,4 +1,4 @@
-<!--- Head of profile //////// --->
+<!--- Head of profile Original --->
 <h1 align="center">Hi 👋, I'm Patpum Hakaew</h1>
 <h3 align="center">I’m currently studying at King Mongkut's Institute of Technology Ladkrabang</h3>
 
