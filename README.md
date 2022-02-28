@@ -1,8 +1,5 @@
 <!--- Head of profile Originalv1.1 --->
-<h1 align="center">Hi 👋, I'm Patpum Hakaew</h1>
-<h3 align="center">I’m currently studying at King Mongkut's Institute of Technology Ladkrabang</h3>
-
-<p align="center">📫 How to reach me <a href="mailto:patpumhak@gmail.com">patpumhak@gmail.com</a></p>
+![header](./header.png)
 
 <p align="center">
    <a href="https://fb.com/pat.patpum">
@@ -21,6 +18,12 @@
     <img src=https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white>
   </a>
 </p>
+
+## ✋
+
+<h3 align="center">I’m currently studying at King Mongkut's Institute of Technology Ladkrabang</h3>
+
+<p align="center">📫 How to reach me <a href="mailto:patpumhak@gmail.com">patpumhak@gmail.com</a></p>
 
 ## Github Stats
 <!--- Body --->
