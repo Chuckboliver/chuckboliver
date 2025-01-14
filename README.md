@@ -6,8 +6,6 @@
 
 ## ✋
 
-<h3 align="center">I’m currently studying at King Mongkut's Institute of Technology Ladkrabang</h3>
-
 <p align="center">📫 How to reach me <a href="mailto:patpumhak@gmail.com">patpumhak@gmail.com</a></p>
 
 ## Github Stats
